@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 9,
+      "description": "Magic Caps!"
+   },
+   "language": {
+      "en_wv": {
+         "name": "Mushroom Hats",
+         "region": "Magic Lands",
+         "bidirectional": false
+      }
+   }
+}
