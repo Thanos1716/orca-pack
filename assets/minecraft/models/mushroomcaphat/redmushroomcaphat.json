@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mushroomtextures/red_cap",
-		"particle": "mushroomtextures/red_cap"
+		"0": "block/red_cap",
+		"particle": "block/red_cap"
 	},
 	"elements": [
 		{
